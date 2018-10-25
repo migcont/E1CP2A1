@@ -7,21 +7,19 @@
 		 url('../fonts/The_Emperors_font.svg#04a895ec2b9535ff55881607625d1b84') format('svg');
 
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 150;
 }
-
     *{margin:0;}
     *{padding:0;}
     body{max-width: 480px;}
-
     h1, h2, h4, li{font-family: 'El Rio Lobo';}
     li{font-size: 150%;}
     #primero{ background-color: #a1243a; padding: 5%;}
-    #primero h1{ font-family: 'El Rio Lobo'; text-align: center; color:yellow;}	
+    #primero h1{ text-align: center; color:yellow;}	
     #primero h3{ text-align: center; color:#fff;}
     #segundo{ background-color: #158abe; height: 275px; text-align: center;}
     #segundo img{padding: 5%;}
-    #tercero{ background-image: url("assets/images/cuzco2.jpg"); background-repeat: no-repeat; height: 370px;}
+    #tercero{ background-image: url("../images/cuzco2.jpg"); background-repeat: no-repeat; height: 370px;}
     #tercero p{color:#fff; text-align: right;}
     #tercero h4{color:yellow; font-size: 150%; text-align: right;}
     #cuarto{ text-align: center; height: 100px;  }
