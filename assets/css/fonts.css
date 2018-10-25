@@ -7,13 +7,13 @@
 		 url('../fonts/The_Emperors_font.svg#04a895ec2b9535ff55881607625d1b84') format('svg');
 
 	font-style: normal;
-	font-weight: 150;
+	font-weight: lighter;
 }
     *{margin:0;}
     *{padding:0;}
-    body{max-width: 480px;}
+    body{max-width: 480px; text-align: center;}
     h1, h2, h4, li{font-family: 'El Rio Lobo';}
-    li{font-size: 150%;}
+    li{font-size: 180%;}
     #primero{ background-color: #a1243a; padding: 5%;}
     #primero h1{ text-align: center; color:yellow;}	
     #primero h3{ text-align: center; color:#fff;}
@@ -23,3 +23,4 @@
     #tercero p{color:#fff; text-align: right;}
     #tercero h4{color:yellow; font-size: 150%; text-align: right;}
     #cuarto{ text-align: center; height: 100px;  }
+    #cuarto p{font-size: 200px;}
